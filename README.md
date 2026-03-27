@@ -1,5 +1,7 @@
 # SFR_et_RED_-_TV_-_Replay_et_direct_-_TV_sur_PC
 Tampermonkey userscripts for TV on PC experience enhancement on tv.sfr.fr
+![Tampermonkey](https://img.shields.io/badge/Tampermonkey-Userscript-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
 
 
 # TV on PC – Tampermonkey Userscripts  
