@@ -74,13 +74,12 @@ tv-sfr-tampermonkey-scripts/
 │   ├── replay.user.js
 │   └── auth.user.js
 │
-├── docs/
-│   ├── spa-navigation.md
-│   ├── event-handling-strategies.md
-│   └── tampermonkey-internals.md
 │
 ├── README.md
 └── LICENSE
+
+The code is self‑explanatory.
+No additional documentation is required.
 
 ---
 
