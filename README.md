@@ -67,20 +67,20 @@ During development, issues such as:
 ---
 
 ## 📁 Repository Structure
-
-/scripts
-├── direct.user.js
-├── replay.user.js
-└── auth.user.js
-
-/docs
-├── spa-navigation.md
-├── event-handling-strategies.md
-└── tampermonkey-internals.md
-
-README.md
-LICENSE
-
+tv-sfr-tampermonkey-scripts/
+│
+├── scripts/
+│   ├── direct.user.js
+│   ├── replay.user.js
+│   └── auth.user.js
+│
+├── docs/
+│   ├── spa-navigation.md
+│   ├── event-handling-strategies.md
+│   └── tampermonkey-internals.md
+│
+├── README.md
+└── LICENSE
 
 ---
 
@@ -88,7 +88,7 @@ LICENSE
 
 1. Install **Tampermonkey** (Chrome, Firefox, Edge, etc.)
 2. Open the extension dashboard
-3. Click **“Create a new script”**
+3. Click "+"   for  **“Create a new script”**
 4. Paste the content of one of the `.user.js` files from this repository  
    *or*  
    Use **“Import”** to load the file directly
@@ -142,3 +142,4 @@ Contributions, suggestions, and improvements are welcome.
 Feel free to open issues or submit pull requests.
 
 Certified 100% IA content @Christophe VERON and @Copilot
+AI may say real bullshit, never trust !
